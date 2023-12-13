@@ -1,5 +1,5 @@
 {
-  "name": "w7corp/easywechat",
+  "name": "helophp/easywechat",
   "description": "微信SDK",
   "keywords": [
     "easywechat",
@@ -28,7 +28,7 @@
     "overtrue/socialite": "^3.5.4|^4.0.1",
     "psr/simple-cache": "^1.0|^2.0|^3.0",
     "psr/http-client": "^1.0",
-    "symfony/cache": "^5.4|^6.0",
+    "symfony/cache": "^5.4|^6|^7",
     "symfony/http-foundation": "^5.4|^6.0",
     "symfony/psr-http-message-bridge": "^2.1.2",
     "symfony/http-client": "^5.4|^6.0",
